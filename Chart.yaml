@@ -8,4 +8,4 @@ version: 0.1.0 # Dummy version, will never be incremented by Kargo.
 dependencies:
   - name: helm-guestbook
     version: 0.1.0 # Initial version needs to be set, subsequent upgrades will be handled by Kargo.
-    repository: oci://registry-1.docker.io/blaaake/helm-guestbook
+    repository: oci://registry-1.docker.io/blaaake
