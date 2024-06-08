@@ -3,4 +3,4 @@ dependencies:
   repository: oci://registry-1.docker.io/blaaake
   version: 0.1.0
 digest: sha256:f9cbe61aee98658d18db4d56c3a550212830cc26e975908f445eb1f246000907
-generated: "2024-06-08T05:35:26.98019119Z"
+generated: "2024-06-08T05:35:33.940537491Z"
